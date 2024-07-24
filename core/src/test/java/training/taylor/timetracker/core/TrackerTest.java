@@ -22,7 +22,9 @@ public class TrackerTest {
     public void testMe() {
         assertNotNull(tracker);
     }
-
+/**
+ * Created by me on 6/19/2015.
+ */
     @Test
     public void testAdd() {
         TimeEntry entry = new TimeEntry();
