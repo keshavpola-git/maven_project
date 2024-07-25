@@ -1,7 +1,5 @@
 package training.taylor.timetracker.core;
-/**
- * Created by Jason on 6/19/2015.
- */
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
